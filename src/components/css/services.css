@@ -1,0 +1,235 @@
+/* .headbox{
+    position: absolute;
+    width: 1837px;
+    height: 143px;
+    left: 35px;
+    top: 27px;
+    background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #F8F8F8 0%, #000000 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+}
+.text{
+    text-align: center;
+    justify-content: center;
+    margin-top: 45px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-size: 32px;
+    color: black;   
+}
+.link4{
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 638px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.link5{
+    margin-top: 7px;
+    position: absolute;
+    margin-left: 900px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.link6{
+    margin-top: 7px;
+    position: absolute;
+    margin-left: 1150px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.centerHeading{
+    position: absolute;
+    left: 650px;
+    top: 209px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+    color: black;   
+}
+.paragraph{
+    position: absolute;
+    left: 750px;
+    top: 298px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    color: #000000;   
+}
+.bottomHeading{
+    position: absolute;
+    left: 790px;
+    top: 515px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    color: black;   
+}
+.logo1{
+    position: absolute;
+    width: 85px;
+    height: 72px;
+    left: 42px;
+    top: 616px;
+}
+
+.logo2{
+    position: absolute;
+    left: 27.5%;
+    right: 66.76%;
+    top: 616px;
+    bottom: 25.78%;
+    
+}
+
+.logo3{
+    position: absolute;
+    width: 85px;
+    height: 72px;
+    left: 1000px;
+    top: 616px;
+    
+}
+
+.logo4{
+    position: absolute;
+    width: 85px;
+    height: 72px;
+    left: 1510px;
+    top: 616px;    
+}
+.logo5{
+    position: absolute;
+    left: 42px;
+    right: 91.49%;
+    top: 812px;
+    bottom: 4.96%;    
+}
+.logo6{
+    position: absolute;
+    width: 85px;
+    height: 72px;
+    left: 27.5%;
+    top: 812px;
+}
+.logo7{
+    position: absolute;
+    width: 85px;
+    height: 72px;
+    left: 1000px;
+    top: 812px;   
+}
+.logo8{
+    position: absolute;
+    width: 85px;
+    height: 72px;
+    left: 1510px;
+    top: 812px;
+}
+.p1{
+    position: absolute;
+    left: 142px;
+    top: 645px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;   
+}
+.p2{
+    position: absolute;
+    left: 615px;
+    top: 631px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+}
+.p3{
+    position: absolute;
+    left: 1100px;
+    top: 631px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+}
+.p4{
+    position: absolute;
+    left: 1600px;
+    top: 645px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+    
+}
+.p5{
+    position: absolute;
+    left: 142px;
+    top: 819px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+    
+}
+.p6{
+    position: absolute;
+    left: 615px;
+    top: 819px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+}
+.p7{
+    position: absolute;
+    left: 1100px;
+    top: 834px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+}
+.p8{
+    position: absolute;
+    left: 1600px;
+    top: 819px;
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: black;
+} */
